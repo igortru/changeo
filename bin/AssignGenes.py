@@ -28,10 +28,10 @@ from changeo.IO import getOutputName
 # Defaults
 choices_format = ('blast', 'airr')
 choices_loci = ('ig', 'tr')
-choices_organism = ('human', 'mouse', 'rabbit', 'rat', 'rhesus_monkey')
+choices_organism = ('human', 'mouse', 'rabbit', 'rat', 'rhesus_monkey', 'alpaca')
 default_format = 'blast'
 default_loci = 'ig'
-default_organism = 'human'
+default_organism = 'alpaca'
 default_igdata = '~/share/igblast'
 
 
